@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 env:
-  packageName: "com.github.nekobox.import-logger"
+  packageName: "com.github.nekobox.import-searcher"
 
 jobs:
   build:
