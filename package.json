@@ -1,0 +1,15 @@
+{
+  "name": "com.github.nekobox-dev.import-searcher",
+  "displayName": "Import Searcher",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nekobox",
+    "url": "https://github.com/nekobox-dev"
+  },
+  "unity": "2022.3",
+  "description": "Fast access to imported assets",
+  "vpmDependencies": {},
+  "license": "MIT",
+  "licenseUrl": "https://github.com/nekobox-dev/import-searcher/blob/main/LICENSE",
+  "changelogUrl": "https://github.com/nekobox-dev/import-searcher/blob/main/CHANGELOG.md"
+}

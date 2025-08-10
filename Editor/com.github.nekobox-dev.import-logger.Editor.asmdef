@@ -1,0 +1,16 @@
+{
+    "name": "com.github.nekobox-dev.import-logger.Editor",
+    "rootNamespace": "Nekobox.ImportLogger",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

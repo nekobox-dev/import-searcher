@@ -1,0 +1,25 @@
+.unity-foldout__text
+{
+    
+}
+
+.unity-list-view
+{
+
+}
+
+.unity-list-view__item
+{
+    padding: 6px;
+}
+
+.package-name
+{
+    padding-top: 4px;
+    font-size: 14px;
+}
+
+.package-path
+{
+    font-size: 10px;
+}
